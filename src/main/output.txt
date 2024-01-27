@@ -1,0 +1,2 @@
+Dòng 1: Cannot invoke "java.sql.Connection.prepareStatement(String, int)" because "c" is null
+Dòng 2: Cannot invoke "java.sql.Connection.prepareStatement(String, int)" because "c" is null
